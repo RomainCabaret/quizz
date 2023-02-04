@@ -1,0 +1,15 @@
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\bin\Debug\net6.0\Quizz.exe
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\bin\Debug\net6.0\Quizz.deps.json
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\bin\Debug\net6.0\Quizz.runtimeconfig.json
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\bin\Debug\net6.0\Quizz.dll
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\bin\Debug\net6.0\Quizz.pdb
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.csproj.AssemblyReference.cache
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.AssemblyInfoInputs.cache
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.AssemblyInfo.cs
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.dll
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\refint\Quizz.dll
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.pdb
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\Quizz.genruntimeconfig.cache
+C:\Users\Romain\Desktop\dev\cs\Quizz\Quizz\obj\Debug\net6.0\ref\Quizz.dll
